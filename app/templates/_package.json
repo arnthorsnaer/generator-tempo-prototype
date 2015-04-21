@@ -9,7 +9,7 @@
   		"start": "node ./live-server.js"
   	},
 	"dependencies": {
-    	"live-server": "^0.6.2"		
+    	"live-server": "0.6.2"		
 		},
 	"repository": {
 	  "type": "git",
